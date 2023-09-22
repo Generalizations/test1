@@ -21,9 +21,9 @@
 4. 配置 Qt For Python>Uic Path<br>
 ![4](https://github.com/Generalizations/test1/assets/142973887/b89a9fb5-9190-4ca5-aee6-b498ea895bf4)
 ## Python config
-1. 设置面板搜索Python<br>
-![5](https://github.com/Generalizations/test1/assets/142973887/3670ed2d-89b3-447e-a7b9-c285a7a2d6a6)
+1. 设置面板搜索Python
 2. 配置default interpreter Path选项，路径为虚拟路径Scripts\python.exe<br>
+![5](https://github.com/Generalizations/test1/assets/142973887/3670ed2d-89b3-447e-a7b9-c285a7a2d6a6)
 3. vscode右下角显示python版本及虚拟环境<br>
 ![6](https://github.com/Generalizations/test1/assets/142973887/b3702e6a-2253-4a98-ae13-b9c8e55ba8d7)
 ## vscode在虚拟环境中运行py文件的两种方式

@@ -1,10 +1,15 @@
 # vscode config
+- [Installation](#Installation)
+- [Config](#Config)
+  - [Qt For Python config](#Qt-For-Python-config)
+  - [Python config](#Python-config)
+- [vscode在虚拟环境中运行py文件的两种方式](#vscode在虚拟环境中运行py文件的两种方式)
 ## Installation
 - python
 - QT for python
-## config
+## Config
 以下使用路径均为虚拟环境的路径，所以根据自己虚拟路径做相应调整。
-### Qt For Python
+### Qt For Python config
 输入框路径是虚拟环境下的Script文件夹下的文件
 1. 打开设置面板，搜索qt for python<br>
 ![1](https://github.com/Generalizations/test1/assets/142973887/59e1ddb4-85d7-4d23-9e83-f64fd4be3bb7)
@@ -14,7 +19,7 @@
 ![3](https://github.com/Generalizations/test1/assets/142973887/4e5e6765-a973-4316-abfa-cf2d89770556)
 4. 配置 Qt For Python>Uic Path<br>
 ![4](https://github.com/Generalizations/test1/assets/142973887/b89a9fb5-9190-4ca5-aee6-b498ea895bf4)
-## Python
+## Python config
 1. 设置面板搜索Python<br>
 ![5](https://github.com/Generalizations/test1/assets/142973887/3670ed2d-89b3-447e-a7b9-c285a7a2d6a6)
 2. 配置default interpreter Path选项，路径为虚拟路径Scripts\python.exe<br>

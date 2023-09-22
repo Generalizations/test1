@@ -5,7 +5,7 @@
   - [Python config](#Python-config)
 - [vscode在虚拟环境中运行py文件的两种方式](#vscode在虚拟环境中运行py文件的两种方式)
 ## Installation
-在vscode安装以下两种插件
+在vscode安装以下两种插件：
 - python
 - QT for python
 ## Config
